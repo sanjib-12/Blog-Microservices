@@ -1,19 +1,19 @@
 [submodule "client"]
 	path = client
-	url = ./client
+	url = https://github.com/sanjib-12/blog-client.git
 [submodule "comments"]
 	path = comments
-	url = ./comments
+	url = https://github.com/sanjib-12/blog-comments.git
 [submodule "event-bus"]
 	path = event-bus
-	url = ./event-bus
+	url = https://github.com/sanjib-12/blog-event-bus.git
 [submodule "moderation"]
 	path = moderation
-	url = ./moderation
+	url = https://github.com/sanjib-12/blog-moderation.git
 [submodule "posts"]
 	path = posts
-	url = ./posts
+	url = https://github.com/sanjib-12/blog-posts.git
 
 [submodule "query"]
 	path = query
-	url = ./query
+	url = https://github.com/sanjib-12/blog-query.git
