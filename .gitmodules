@@ -1,0 +1,15 @@
+[submodule "client"]
+	path = client
+	url = ./client
+[submodule "comments"]
+	path = comments
+	url = ./comments
+[submodule "event-bus"]
+	path = event-bus
+	url = ./event-bus
+[submodule "moderation"]
+	path = moderation
+	url = ./moderation
+[submodule "posts"]
+	path = posts
+	url = ./posts
