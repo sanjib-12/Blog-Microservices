@@ -14,3 +14,6 @@
 	path = posts
 	url = ./posts
 
+[submodule "query"]
+	path = query
+	url = ./query
